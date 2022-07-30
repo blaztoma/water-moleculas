@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: fly
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Owl
+    m_Weight: 1
+  - m_Path: OwlRig
+    m_Weight: 1
+  - m_Path: OwlRig/root
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head
+    m_Weight: 0
+  - m_Path: OwlRig/root/pelvis/chest/head/brow0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/brow0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/brow1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/brow1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/brow2.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/brow2.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/cheek.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/cheek.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/eye.lid.lower.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/eye.lid.lower.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/eye.lid.top.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/eye.lid.top.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/eye.stretch.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/eye.stretch.l/eye.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/eye.stretch.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/eye.stretch.r/eye.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/jaw
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/jaw/tongue0
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/jaw/tongue0/tongue1
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/jaw/tongue0/tongue1/tongue2
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/mouth.corner.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/mouth.corner.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/head/mouth.upper
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/feather3_0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/feather3_0.l/feather3_1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/feather4_0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/feather4_0.l/feather4_1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/feather5_0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/feather5_0.l/feather5_1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/wing2.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/wing2.l/feather1_0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/wing2.l/feather1_0.l/feather1_1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/wing2.l/feather2_0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/wing2.l/feather2_0.l/feather2_1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/wing2.l/wing3.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/wing2.l/wing3.l/feather0_0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/wing2.l/wing3.l/feather0_0.l/feather0_1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.l/wing1.l/wing2.l/wing3.l/wing4.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/feather3_0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/feather3_0.r/feather3_1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/feather4_0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/feather4_0.r/feather4_1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/feather5_0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/feather5_0.r/feather5_1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/wing2.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/wing2.r/feather1_0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/wing2.r/feather1_0.r/feather1_1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/wing2.r/feather2_0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/wing2.r/feather2_0.r/feather2_1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/wing2.r/wing3.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/wing2.r/wing3.r/feather0_0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/wing2.r/wing3.r/feather0_0.r/feather0_1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/chest/wing0.r/wing1.r/wing2.r/wing3.r/wing4.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.l/shin.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.l/shin.l/foot.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.l/shin.l/foot.l/toe0_0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.l/shin.l/foot.l/toe0_0.l/toe0_1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.l/shin.l/foot.l/toe1_0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.l/shin.l/foot.l/toe1_0.l/toe1_1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.l/shin.l/foot.l/toe2_0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.l/shin.l/foot.l/toe2_0.l/toe2_1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.l/shin.l/foot.l/toe3_0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.l/shin.l/foot.l/toe3_0.l/toe3_1.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.r/shin.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.r/shin.r/foot.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.r/shin.r/foot.r/toe0_0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.r/shin.r/foot.r/toe0_0.r/toe0_1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.r/shin.r/foot.r/toe1_0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.r/shin.r/foot.r/toe1_0.r/toe1_1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.r/shin.r/foot.r/toe2_0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.r/shin.r/foot.r/toe2_0.r/toe2_1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.r/shin.r/foot.r/toe3_0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/leg.r/shin.r/foot.r/toe3_0.r/toe3_1.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/tail
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/tail/tail.wing0.l
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/tail/tail.wing0.l.001
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/tail/tail.wing0.r
+    m_Weight: 1
+  - m_Path: OwlRig/root/pelvis/hips/tail/tail.wing0.r.001
+    m_Weight: 1

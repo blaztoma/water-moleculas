@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Laboratory_Room 2.unity
+    guid: dfaf900a515256e49bef225c57694f20
+  m_configObjects:
+    WebXR.Settings: {fileID: 11400000, guid: 4eb48c56e4adb504c812a557d4d3c77c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ef67c7218b8693d4ea3ec5d30f6aac52, type: 2}

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>da60c633e17c92342a13dc528b942d41</guid>
+    <fileName>Assets/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2022-07-20T15:28:31.9952461+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5e166186504027444a71b50725de87fa</guid>
+    <fileName>Assets/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2022-07-20T15:28:32.0082489+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8a55d0d10a267d74ebebe340e068b821</guid>
+    <fileName>Assets/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2022-07-20T15:28:32.0182519+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d16e3cabc66b6fe4bbb5aef999c3d55e</guid>
+    <fileName>Assets/Editor/CollectionData.cs</fileName>
+    <timeStamp>2022-07-20T15:28:32.0292537+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a5581c0bd708df348a6dd178d2ce8113</guid>
+    <fileName>Assets/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2022-07-20T15:28:32.0392561+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8f983fd907c624d48ae90528c3a8dfe6</guid>
+    <fileName>Assets/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2022-07-20T15:28:32.0522609+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc783b9a55328844e8efa433e8713cde</guid>
+    <fileName>Assets/Scripts/Duplicator.cs</fileName>
+    <timeStamp>2022-06-01T12:54:06.8595142+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8439aa52148b6c9418823283d7ec012f</guid>
+    <fileName>Assets/Scripts/FlowerMovement.cs</fileName>
+    <timeStamp>2022-05-27T13:56:24.9272552+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cd82b2300ab737a48b0b771d8c60ebda</guid>
+    <fileName>Assets/Scripts/isCorrectColor.cs</fileName>
+    <timeStamp>2022-07-18T14:14:12.2262691+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1d245abdbf9de084383d96ca3c78347f</guid>
+    <fileName>Assets/Scripts/Language.cs</fileName>
+    <timeStamp>2022-07-20T14:45:18.355691+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>00f8a1fa82c27ec45b8df60ae5f00f21</guid>
+    <fileName>Assets/Scripts/MoveRotateMolecule.cs</fileName>
+    <timeStamp>2022-07-05T12:17:03.8204591+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>12db345184a8e8b44be33455e2e4b0c9</guid>
+    <fileName>Assets/Scripts/ScormJS.cs</fileName>
+    <timeStamp>2022-07-08T15:18:23.3453195+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0791f567a9417f84d9d1d367a15dca79</guid>
+    <fileName>Assets/Scripts/Talking.cs</fileName>
+    <timeStamp>2022-07-20T13:29:28.0831118+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>73f36fcb35a083842a8dcbb29f06b94a</guid>
+    <fileName>Assets/Scripts/WebFloatX.cs</fileName>
+    <timeStamp>2022-06-10T14:51:00.1853036+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>63c22e6c7d8d39e4287716de12dba50d</guid>
+    <fileName>Assets/Scripts/WebFloatY.cs</fileName>
+    <timeStamp>2022-06-10T14:51:04.0939449+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>10a1db0b5d05af842b46b4a794587476</guid>
+    <fileName>Assets/Scripts/WebGrip.cs</fileName>
+    <timeStamp>2022-06-02T12:47:28.3656397+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e64c202b0b3fc7a4abd9cb67bb86bc5a</guid>
+    <fileName>Assets/Scripts/WebJoystick.cs</fileName>
+    <timeStamp>2022-05-23T15:33:37+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>58bc9fb80a8cdf44ba833f7c4daf4b5d</guid>
+    <fileName>Assets/Scripts/WebTrigger.cs</fileName>
+    <timeStamp>2022-05-23T15:33:41+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
